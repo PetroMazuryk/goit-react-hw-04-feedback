@@ -21,7 +21,7 @@ export const GlobalStyle = createGlobalStyle`
           font-weight: normal;
           font-size: 12px;
    padding-left: 100px;
-    /* background-color: aqua; */
+   
     background-color: #e9e9e9;
   }
  
